@@ -1,10 +1,10 @@
 {
-  "name": "X-BOT-MD",
-  "version": "3.0.0",
-  "description": "X-BOT-MD Simple WhatsApp Bot",
+  "name": "X-BOT Dark Alfa",
+  "version": "10.0",
+  "description": "X-BOT Dark Alfa Simple WhatsApp Bot",
   "logo": "https://i.imgur.com/Q2UNwXR.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
-  "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
+  "repository": "https://github.com/X-BOT Dark Alfa ",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -37,7 +37,7 @@
     "AUDIO_DATA": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "X BOT MD;ASWIN SPARKY;https://i.imgur.com/fVCRCYG.jpeg"
+      "value": "x Bot Dark Alfa;https://www.youtube.com/"
     },
     "BOT_INFO": {
       "description": "Enter Your Owner Number",
